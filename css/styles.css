@@ -188,17 +188,18 @@ color: #404BBF;
     text-align: center;
     letter-spacing: 0.04em;
     color: #4D5AE5;
+    cursor: pointer;
 }
 
 .btn-main:hover {
     background: #404BBF;
     color: #FFFFFF;
-    border-color:#404BBF;
+    border:1px solid #404BBF;
 
 }
 
 .btn-main:focus {
     background: #404BBF;
-    color: #F4F4FD;
+    color: #ffffff;
 
 }
